@@ -1,0 +1,67 @@
+{
+  "name": "Ravi",
+  "contact": {
+    "email": "aklvvsr1999@gmail.com",
+    "phone": "9398978743",
+    "address": "123 Main Street, City, Country"
+  },
+  "summary": "Fresher with a passion for web development.",
+  "education": [
+    {
+      "degree": "Bachelor of engineering in Computer Science",
+      "school": "AIHT",
+      "year": "2018 - 2022",
+      "location": "Chennai"
+    }
+  ],
+  "projects": [
+    {
+      "title": "E-commerce Website",
+      "description": "Built a fully functional e-commerce website using React and Node.js.",
+      "year": "2019"
+    },
+    {
+      "title": "Portfolio Website",
+      "description": "Created a personal portfolio website showcasing my projects and skills.",
+      "year": "2021"
+    }
+  ],
+ 
+  "skills": [
+    "JavaScript",
+    "Node.js",
+    "React",
+    "HTML/CSS",
+    "SQL",
+    "Git",
+    "Problem Solving",
+    "Team Collaboration"
+  ], "certifications": [
+    {
+      "title": "Certified JavaScript Developer",
+      "issuedBy": "Udemy",
+      "year": "2020"
+    }
+  ],
+  
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Intermediate"
+    },
+    {
+      "language": "Telugu",
+      "proficiency": "Native"
+    },
+  {
+      "language": "Tamil",
+      "proficiency": "Beginer"
+    },
+  ],
+  "interests": [
+    "Web Development",
+    "Open Source Projects",
+    "Watching Movies",
+    "Playing Games"
+  ]
+}
