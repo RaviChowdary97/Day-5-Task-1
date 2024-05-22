@@ -32,3 +32,23 @@ console.log("Using forEach loop for arrays:");
 jsonObject.hobbies.forEach((hobby) => {
   console.log(hobby);
 });
+
+
+//OUTPUT
+sing for loop:
+ Peter
+30
+New York
+ Using for...in loop:
+ name Peter
+ age 30
+ city New York
+ hobbies (3) ['reading', 'coding', 'running']
+Using for...of loop:
+ reading
+ coding
+ running
+ Using forEach loop for arrays:
+ reading
+ coding
+ running
